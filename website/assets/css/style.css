@@ -2,8 +2,13 @@ body{
     background: #ffffff;
     margin: 0;
 }
-
-nav.navbar {
+    background: {
+        #BDBDBD;
+}
+ul.nav > li > a {
+    color: gray;
+}
+div.navContainer {
     margin: 0;
 }
 
