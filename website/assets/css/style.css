@@ -2,9 +2,6 @@ body{
     background: #ffffff;
     margin: 0;
 }
-    background: {
-        #BDBDBD;
-}
 ul.nav > li > a {
     color: gray;
 }
