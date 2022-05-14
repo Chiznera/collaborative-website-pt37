@@ -20,3 +20,29 @@ p {
     color: black !important;
     font-size: 16px !important;
 }
+
+div.contactBox {
+    background: #F6F6F6;
+    border-style: solid;
+    border-color: #E5E5E5;
+    height: 250px;
+    width: 700px;
+    margin: auto;
+    padding: 30px;
+
+}
+
+.submitbutton a {
+    
+    padding: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    background-color: #28ACEA;
+    color: white;
+    border: 1px solid black;
+}
+
+.submitbutton a:hover {
+    background-color: #6699cc;
+    color: black;
+}
